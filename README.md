@@ -1,5 +1,5 @@
 
-Modify the URL to print your name + " approved" after clicking the “Get Recommendation” button.
+Modify the URL (https://bumbeishvili.github.io/candidate-chooser/index.html) to print your name + " approved" after clicking the “Get Recommendation” button.
 
 ---
 
