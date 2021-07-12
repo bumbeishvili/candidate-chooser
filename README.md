@@ -1,4 +1,4 @@
-# trello-exercise
+# exercise
 
 
 Problem:
