@@ -1,6 +1,3 @@
-# exercise
-
-
 
 Modify the URL to print your name + " approved" after clicking the “Get Recommendation” button.
 
