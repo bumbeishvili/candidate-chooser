@@ -7,7 +7,7 @@ Problem:
 
 Modify the URL to print your name + " approved" after clicking the “Get Recommendation” button.
 
-For example, if candidate name is Alex, after clicking the button, there should be following text printed
+For example, if candidate name is `Alex`, after clicking the button, there should be following text printed
 
 **`Alex approved `**
 
